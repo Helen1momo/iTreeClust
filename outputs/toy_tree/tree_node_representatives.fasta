@@ -1,0 +1,22 @@
+>L0_C000001 level=0 threshold=0.97 size=3 rep_index=0 rep_seq_id=seq_A1
+ACGTACGTACGTACGTACGTACGTACGTACGTACGTACGT
+>L0_C000002 level=0 threshold=0.97 size=3 rep_index=3 rep_seq_id=seq_B1
+ACGTACGTACGTACGTACGTACGTACGTACGTAAAACCCC
+>L0_C000003 level=0 threshold=0.97 size=3 rep_index=6 rep_seq_id=seq_C1
+TTTTCCCCAAAAGGGGTTTTCCCCAAAAGGGGTTTTCCCC
+>L0_C000004 level=0 threshold=0.97 size=2 rep_index=9 rep_seq_id=seq_D1
+GGGGAAAACCCCTTTTGGGGAAAACCCCTTTTGGGGAAAA
+>L1_N000001 level=1 threshold=0.9 size=3 rep_index=0 rep_seq_id=seq_A1
+ACGTACGTACGTACGTACGTACGTACGTACGTACGTACGT
+>L1_N000002 level=1 threshold=0.9 size=3 rep_index=3 rep_seq_id=seq_B1
+ACGTACGTACGTACGTACGTACGTACGTACGTAAAACCCC
+>L1_N000003 level=1 threshold=0.9 size=3 rep_index=6 rep_seq_id=seq_C1
+TTTTCCCCAAAAGGGGTTTTCCCCAAAAGGGGTTTTCCCC
+>L1_N000004 level=1 threshold=0.9 size=2 rep_index=9 rep_seq_id=seq_D1
+GGGGAAAACCCCTTTTGGGGAAAACCCCTTTTGGGGAAAA
+>L2_N000001 level=2 threshold=0.75 size=6 rep_index=0 rep_seq_id=seq_A1
+ACGTACGTACGTACGTACGTACGTACGTACGTACGTACGT
+>L2_N000002 level=2 threshold=0.75 size=3 rep_index=6 rep_seq_id=seq_C1
+TTTTCCCCAAAAGGGGTTTTCCCCAAAAGGGGTTTTCCCC
+>L2_N000003 level=2 threshold=0.75 size=2 rep_index=9 rep_seq_id=seq_D1
+GGGGAAAACCCCTTTTGGGGAAAACCCCTTTTGGGGAAAA

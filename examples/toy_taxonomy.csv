@@ -1,0 +1,12 @@
+seq_id,class,order,family,genus,species
+seq_A1,Alpha,Order1,FamilyA,GenusA,SpeciesA1
+seq_A2,Alpha,Order1,FamilyA,GenusA,SpeciesA1
+seq_A3,Alpha,Order1,FamilyA,GenusA,SpeciesA2
+seq_B1,Alpha,Order1,FamilyB,GenusB,SpeciesB1
+seq_B2,Alpha,Order1,FamilyB,GenusB,SpeciesB1
+seq_B3,Alpha,Order1,FamilyB,GenusB,SpeciesB2
+seq_C1,Beta,Order2,FamilyC,GenusC,SpeciesC1
+seq_C2,Beta,Order2,FamilyC,GenusC,SpeciesC1
+seq_C3,Beta,Order2,FamilyC,GenusC,SpeciesC2
+seq_D1,Gamma,Order3,FamilyD,GenusD,SpeciesD1
+seq_D2,Gamma,Order3,FamilyD,GenusD,SpeciesD1

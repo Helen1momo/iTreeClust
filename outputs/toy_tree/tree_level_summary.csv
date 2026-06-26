@@ -1,0 +1,4 @@
+﻿level,role,threshold,n_nodes,n_sequences,mean_node_size,median_node_size,min_node_size,max_node_size,max_node_fraction,n_singleton_nodes,compression_vs_base_level
+0,base_flat_clusters,0.97,4,11,2.75,3.0,2,3,0.2727272727272727,0,1.0
+1,explanation_level_1,0.9,4,11,2.75,3.0,2,3,0.2727272727272727,0,1.0
+2,explanation_level_2,0.75,3,11,3.6666666666666665,3.0,2,6,0.5454545454545454,0,1.3333333333333333

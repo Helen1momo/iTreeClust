@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "itreeclust"
+version = "0.1.0"
+description = "Fixed-threshold post-hoc hierarchical explanation trees for biological sequence clusters"
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [{name = "iTreeClust authors"}]
+license = {text = "MIT"}
+keywords = ["bioinformatics", "sequence clustering", "interpretable clustering", "hierarchical explanation"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+dependencies = []
+
+[project.optional-dependencies]
+fast = ["python-Levenshtein>=0.25.0"]
+metrics = ["scikit-learn>=1.3.0"]
+
+[project.scripts]
+itreeclust = "itreeclust.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["itreeclust*"]

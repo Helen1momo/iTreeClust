@@ -1,0 +1,6 @@
+# Core package has no mandatory Python dependency beyond the standard library.
+# Optional speed-up for edit distance:
+python-Levenshtein>=0.25.0
+
+# Optional only if taxonomy metrics are extended by users later:
+scikit-learn>=1.3.0
